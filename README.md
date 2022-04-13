@@ -1,4 +1,4 @@
-## Projeto Comunicação em tempo real com Asp.Net Core e Angular
+## Projetos - Comunicação em tempo real com Asp.Net Core e Angular
 
 ---
 
